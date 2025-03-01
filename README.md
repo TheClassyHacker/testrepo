@@ -1,5 +1,5 @@
 
-A repo for the IBM backend engineering program
+A repo for the IBM backend engineering program; ASCII banner and blurb
 
 # Backend Engineering + Cybersecurity: A Powerful Combo
 
